@@ -22,6 +22,11 @@ li {color:red}
 
 .align
 {text-align: center;}
+
+.area {
+  cols:40;
+  rows:5;
+}
   
 
  
